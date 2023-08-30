@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.14.4",
+    "@mui/x-date-pickers": "^6.11.1",
+    "date-fns": "^2.30.0",
+    "dayjs": "^1.11.9"
+  },
+  "name": "flight-finder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
