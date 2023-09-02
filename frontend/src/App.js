@@ -5,7 +5,6 @@ import {DatePicker, LocalizationProvider} from "@mui/x-date-pickers";
 import {AdapterDayjs} from "@mui/x-date-pickers/AdapterDayjs";
 
 
-
 function App() {
 
   const [travelTo, setTravelTo] = useState('');
